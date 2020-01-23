@@ -1,18 +1,19 @@
 # Aexio-Tools
-[!screenshot]()
+
+![Screenshot](https://github.com/adhitya1978/Aexio-Tools/blob/master/screenshot.png)
 
 tools to copy patch files and generate serial for aexio application( was develope by aexioxeus). take note binary files and all material might be not available in repo.
 
 Source code writen with csharp.
 
-PREREQUIST:
+# **REQUIRENMENT:**
 
 
-1. Netframeworks 3.5 or above
+- [x] Netframeworks 3.5 or above
 
-2. [Devexpress](https://www.devexpress.com)
+- [x] [Devexpress](https://www.devexpress.com)
 
-3. [DeployLx](https://marketplace.visualstudio.com/items?itemName=XHEOINC.DeployLXLicensing)
+- [x] [DeployLx](https://marketplace.visualstudio.com/items?itemName=XHEOINC.DeployLXLicensing)
 
-4. [Hardog key/ HASP](https://alladin.com)
+- [x] [Hardog key/ HASP](https://alladin.com)
 
