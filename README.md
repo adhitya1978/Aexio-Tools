@@ -6,7 +6,7 @@ tools to copy patch files and generate serial for aexio application( was develop
 
 Source code writen with csharp.
 
-# **REQUIRENMENT:**
+## **Requirement:**
 
 
 - [x] Netframeworks 3.5 or above
